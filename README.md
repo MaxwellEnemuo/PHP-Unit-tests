@@ -1,4 +1,4 @@
-# Simple tests in PHP Unit
+# Simple tests with PHP Unit
 
 The PHP Unit Testing framework.
 
